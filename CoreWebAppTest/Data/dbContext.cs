@@ -9,7 +9,7 @@ using CoreWebAppTest.Models;
 
 namespace CoreWebAppTest.Data
 {
-    public class dbContext : IdentityDbContext<IdentityUser>
+    public class dbContext : IdentityDbContext<ApplicationUser>
     {
         public dbContext(DbContextOptions<dbContext> options)
             : base(options)
