@@ -151,3 +151,8 @@ C:\Users\jon\source\repos\CoreWebAppTest\CoreWebAppTest\obj\Debug\netcoreapp3.1\
 C:\Users\jon\source\repos\CoreWebAppTest\CoreWebAppTest\obj\Debug\netcoreapp3.1\Razor\Pages\Students\Details.cshtml.g.cs
 C:\Users\jon\source\repos\CoreWebAppTest\CoreWebAppTest\obj\Debug\netcoreapp3.1\Razor\Pages\Students\Edit.cshtml.g.cs
 C:\Users\jon\source\repos\CoreWebAppTest\CoreWebAppTest\obj\Debug\netcoreapp3.1\Razor\Pages\Students\Index.cshtml.g.cs
+C:\Users\jon\source\repos\CoreWebAppTest\CoreWebAppTest\bin\Debug\netcoreapp3.1\CoreWebAppTest.StaticWebAssets.xml
+C:\Users\jon\source\repos\CoreWebAppTest\CoreWebAppTest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\jon\source\repos\CoreWebAppTest\CoreWebAppTest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\jon\source\repos\CoreWebAppTest\CoreWebAppTest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\jon\source\repos\CoreWebAppTest\CoreWebAppTest\obj\Debug\netcoreapp3.1\CoreWebAppTest.MvcApplicationPartsAssemblyInfo.cs
