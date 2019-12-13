@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Identity.UI;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using CoreWebAppTest.Models;
 
 [assembly: HostingStartup(typeof(CoreWebAppTest.Areas.Identity.IdentityHostingStartup))]
 namespace CoreWebAppTest.Areas.Identity
@@ -19,8 +20,6 @@ namespace CoreWebAppTest.Areas.Identity
                     options.UseSqlite(
                         context.Configuration.GetConnectionString("dbContextConnection")));
 
-                services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
-                    .AddEntityFrameworkStores<dbContext>();
             });
         }
     }
