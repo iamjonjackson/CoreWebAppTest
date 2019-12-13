@@ -20506,8 +20506,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\jon\\source\\repos\\CoreWebAppTest\\CoreWebAppTest\\Pages\\Students\\Index.cshtml",
+      "TargetPath": "Pages\\Students\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\jon\\source\\repos\\CoreWebAppTest\\CoreWebAppTest\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jon\\source\\repos\\CoreWebAppTest\\CoreWebAppTest\\Pages\\Students\\Edit.cshtml",
+      "TargetPath": "Pages\\Students\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -20521,8 +20531,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\jon\\source\\repos\\CoreWebAppTest\\CoreWebAppTest\\Pages\\Students\\Details.cshtml",
+      "TargetPath": "Pages\\Students\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jon\\source\\repos\\CoreWebAppTest\\CoreWebAppTest\\Pages\\Students\\Delete.cshtml",
+      "TargetPath": "Pages\\Students\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\jon\\source\\repos\\CoreWebAppTest\\CoreWebAppTest\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jon\\source\\repos\\CoreWebAppTest\\CoreWebAppTest\\Pages\\Students\\Create.cshtml",
+      "TargetPath": "Pages\\Students\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
