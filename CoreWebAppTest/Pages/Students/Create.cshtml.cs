@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
-using ContosoUniversity.Models;
+using CoreWebAppTest.Models;
 using CoreWebAppTest.Data;
 
 namespace CoreWebAppTest.Pages.Students
@@ -36,7 +36,7 @@ namespace CoreWebAppTest.Pages.Students
                 return Page();
             }
 
-            _context.Student.Add(Student);
+            _context.Students.Add(Student);
             await _context.SaveChangesAsync();
 
             return RedirectToPage("./Index");

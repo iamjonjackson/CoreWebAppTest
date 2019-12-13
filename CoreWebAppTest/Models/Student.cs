@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace ContosoUniversity.Models
+namespace CoreWebAppTest.Models
 {
     public class Student
     {
